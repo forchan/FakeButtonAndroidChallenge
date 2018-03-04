@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FakeButton</string>
+    <string name="title_home">Home</string>
+    <string name="title_create_user">Create User</string>
+    <string name="title_list_users">List Users</string>
+    <string name="home_page_message">Simplified FakeButton application: you can create a user or
+        look up a user by candidate parameter!</string>
+</resources>

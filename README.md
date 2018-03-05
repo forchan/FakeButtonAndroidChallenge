@@ -11,3 +11,5 @@ Function 1: Create User (by name, email, and candidate parameter).
 Function 2: List User (by candidate parameter).
 
 The intent of this implementation was to verify the functionality between it and the REST-ful API, therefore it only enforces minimal styling and error checking (for user inputs).
+
+Implementation uses Retrofit - a type-safe HTTP client for Android and Java by Square, Inc.

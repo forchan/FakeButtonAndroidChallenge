@@ -1,5 +1,5 @@
 # FakeButtonAndroidChallenge
-Android Intern Coding Challenge @ Button
+Android Coding Challenge
 
 This application was created to implement the following functionality that exercises a REST-ful API:
 
